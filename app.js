@@ -1,5 +1,5 @@
 function sumar(a, b) {
-  return a + b + 100; // 👈 error intencional
+  return a + b; // ✅ corregido
 }
 
 function obtenerMensaje() {
