@@ -6,7 +6,7 @@ function sumar(a, b) {
 }
 
 function obtenerMensaje() {
-  return "Hola Mundo";
+  return "Hola DevOps"; // 👈 cambia esto
 }
 
 app.get('/', (req, res) => {
